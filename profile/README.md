@@ -1,7 +1,7 @@
 # Eeriee
 
-Welcome.
+## Welcome.
 
-Glad you're here.
+### *Glad you're here.*
 
 > https://eeriee.dev
